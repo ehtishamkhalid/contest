@@ -1,0 +1,435 @@
+body{
+background-color: #000000;
+}
+
+.one{
+  position: absolute;
+  width: 1440px;
+  height: 979px;
+  left: 0px;
+  top: 0px;
+
+  background: black;
+
+}
+.title {
+  position: absolute;
+width: 570px;
+height: 194px;
+left: 84px;
+top: 360px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 88px;
+line-height: 110%;
+/* or 97px */
+
+letter-spacing: -0.04em;
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.talhalogos{
+  position: absolute;
+width: 988px;
+height: 93.83px;
+left: 84px;
+top: 196px;
+}
+.art{
+  position: absolute;
+width: 809px;
+height: 578px;
+left: 654px;
+top: 168px;
+
+}
+.sub2{
+  position: absolute;
+  width: 570px;
+  height: 71px;
+  left: 84px;
+  top: 600px;
+
+  font-family: Readex Pro;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 160%;
+  /* or 38px */
+
+  letter-spacing: -0.04em;
+color: #bdbdbd;
+
+}
+.subtitle{
+  position: absolute;
+  width: 570px;
+  height: 71px;
+  left: 84px;
+  top: 574px;
+
+  font-family: Readex Pro;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 160%;
+  /* or 38px */
+
+  letter-spacing: -0.04em;
+color: #bdbdbd;
+
+}
+.crypticbutton{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+position: absolute;
+width: 277px;
+height: 62px;
+left: 84px;
+top: 750px;
+
+background: #BBD534;
+/* whiteAlpha/300 */
+
+border: 1px solid rgba(255, 255, 255, 0.16);
+box-sizing: border-box;
+border-radius: 100px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+/* identical to box height, or 22px */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+.crypticbutton:hover {
+  background: #ffffff;
+  text-decoration: none;
+}
+
+.crypticbutton:link {
+
+  text-decoration: none;
+}
+
+.artsybtn{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+
+  position: absolute;
+  width: 230px;
+  height: 23px;
+  left: 377px;
+  top: 750px;
+
+  /* whiteAlpha/200 */
+
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 100px;
+
+  font-family: Readex Pro;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  /* identical to box height, or 22px */
+
+
+  color: #FFFFFF;
+
+
+}
+
+.artsybtn:hover {
+  background: #ffffff;
+  color: #333333;
+
+  text-decoration: none;
+}
+
+
+.artsybtn:link {
+
+  text-decoration: none;
+}
+.two{
+  position: absolute;
+width: 1440px;
+height: 349px;
+left: 0px;
+top: 979px;
+
+}
+.sponsors{
+  position: absolute;
+width: 1440px;
+height: 349px;
+left: 0px;
+top: 979px;
+}
+
+.three{
+  position: absolute;
+width: 1440px;
+height: 585px;
+left: 0px;
+top: 1328px;
+
+background: #BBD534;
+}
+.inst{
+  position: absolute;
+width: 272px;
+height: 53px;
+left: 84px;
+top: 70px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 110%;
+/* identical to box height, or 53px */
+
+letter-spacing: -0.04em;
+
+color: black;
+
+}
+.list{
+  position: absolute;
+width: 570px;
+height: 71px;
+left: 76px;
+top: 170px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+letter-spacing: -0.04em;
+
+color: rgba(0, 0, 0, 0.8);
+}
+.four{
+  position: absolute;
+  width: 1440px;
+  height: 692px;
+  left: 0px;
+  top: 1907px;
+
+}
+.theme{
+  position: absolute;
+width: 155px;
+height: 53px;
+left: 80px;
+top: 70px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 110%;
+/* identical to box height, or 53px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+}
+.th2{
+  position: absolute;
+width: 676px;
+height: 71px;
+left: 80px;
+top: 170px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+letter-spacing: -0.04em;
+
+color: rgba(255, 255, 255, 0.8);
+
+}
+.prizes{
+  position: absolute;
+width: 135px;
+height: 53px;
+left: 90px;
+top: 300px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 110%;
+/* identical to box height, or 53px */
+
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+}
+.p2{
+  position: absolute;
+width: 676px;
+height: 71px;
+left: 84px;
+top: 400px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+letter-spacing: -0.04em;
+
+color: rgba(255, 255, 255, 0.8);
+
+}
+.five{
+  position: absolute;
+width: 1440px;
+height: 736px;
+left: 0px;
+top: 2499px;
+
+background: black;
+}
+.ltitle{
+  position: absolute;
+width: 936px;
+height: 194px;
+left: 252px;
+top: 0px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 88px;
+line-height: 110%;
+/* or 97px */
+
+text-align: center;
+letter-spacing: -0.04em;
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.join{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+position: absolute;
+width: 338px;
+height: 76px;
+left: 551px;
+top: 300px;
+
+background: #BBD534;
+/* whiteAlpha/300 */
+
+border: 1px solid rgba(255, 255, 255, 0.16);
+box-sizing: border-box;
+border-radius: 100px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+
+/* Gray 1 */
+
+color: #333333;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+.join:hover {
+  background: #ffffff;
+  text-decoration: none;
+}
+
+.join:link {
+
+  text-decoration: none;
+}
+.cinst{
+  position: absolute;
+width: 223px;
+height: 71px;
+left: 79px;
+top: 600px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+text-align: center;
+letter-spacing: -0.04em;
+
+color: rgba(255, 255, 255, 0.8);
+}
+.ainst{
+  position: absolute;
+width: 223px;
+height: 71px;
+left: 1183px;
+top: 600px;
+
+font-family: Readex Pro;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 160%;
+/* or 38px */
+
+text-align: center;
+letter-spacing: -0.04em;
+
+color: rgba(255, 255, 255, 0.8);
+}
